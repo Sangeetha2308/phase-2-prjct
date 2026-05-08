@@ -234,7 +234,7 @@ disease_info = {
         "tamil": "பதட்டம் (Anxiety) இருந்தால் ஆழ்ந்த சுவாச பயிற்சிகள் செய்து மனதை அமைதியாக வைத்துக் கொள்ள முயற்சி செய்யுங்கள். ஒழுங்கான தூக்கம் மற்றும் தினசரி உடற்பயிற்சி மனநிலையை மேம்படுத்த உதவும். நம்பிக்கையுள்ளவர்களுடன் பேசுவது பயனுள்ளதாக இருக்கும். பதட்டம் நீண்ட நாட்கள் தொடர்ந்தால் மருத்துவர் அல்லது மனநல நிபுணரை அணுகுவது முக்கியம்."
     },
     
-    "EyeInfection": {
+    "Chronic Kidney Disease": {
        "advice": ["Eye infection can cause symptoms like eye swelling and stinging or burning sensation. Wash your hands before touching the eyes and gently rinse the eyes with clean, cool water. Avoid rubbing the eyes and use a clean cold cloth over the closed eye for a few minutes to reduce swelling. Do not share towels, pillows, or eye makeup, and avoid using contact lenses until the eye heals. Reduce screen time and give proper rest to the eyes. If there is severe swelling, yellow or green discharge, blurry vision, strong pain, fever, or if symptoms continue for more than one or two days, consult a doctor immediately."],
         "tamil":  "கண் தொற்று ஏற்பட்டால் கண் வீக்கம் மற்றும் எரிச்சல் போன்ற அறிகுறிகள் இருக்கலாம். கண்களைத் தொடுவதற்கு முன் கைகளை நன்றாக கழுவவும். சுத்தமான குளிர்ந்த தண்ணீரால் கண்களை மெதுவாக கழுவவும். கண்களை உரைக்காமல் இருக்கவும். குளிர்ந்த சுத்தமான துணியை சில நிமிடங்கள் கண் மீது வைப்பது வீக்கத்தை குறைக்க உதவும். துணி, தலையணை, கண் அழகு சாதனங்கள் போன்றவற்றை பிறருடன் பகிர வேண்டாம். Contact lens பயன்படுத்தினால் கண் நன்றாகும் வரை தவிர்க்கவும். மொபைல் மற்றும் ஸ்கிரீன் நேரத்தை குறைத்து கண்களுக்கு ஓய்வு கொடுக்கவும். கடுமையான வீக்கம், மஞ்சள் அல்லது பச்சை சீழ், பார்வை மங்குதல், அதிக வலி, காய்ச்சல் அல்லது 1–2 நாட்களுக்கும் மேலாக பிரச்சனை இருந்தால் உடனே மருத்துவரை அணுகவும்."
     },
