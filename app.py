@@ -89,7 +89,7 @@ disease_rules = {
     
     "Bronchitis": ["cough", "mucus", "chest discomfort", "fatigue"],
     
-    "Chronic Kidney Disease": ["swelling", "fatigue", "nausea"],
+    "Eye infection": ["swelling", "fatigue", "nausea"],
     
     "Dementia": ["memory loss", "confusion", "difficulty thinking"],
     
