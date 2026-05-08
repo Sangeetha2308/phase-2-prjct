@@ -61,7 +61,7 @@ disease_rules = {
     
     "Arthritis": ["joint pain", "stiffness", "swelling", "back pain"],
     
-    "Eye Infection":["Eye swelling" , "Strinking"],
+    "Eye Infection":["swelling" , "eye Strinking"],
 
     "Common Cold": ["runny nose", "sneezing", "cough", "mild fever"],
     
