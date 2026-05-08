@@ -59,9 +59,9 @@ disease_rules = {
 
     "Tuberculosis": ["persistent cough", "weight loss", "fever", "night sweats", "fatigue"],
     
-    "Arthritis": ["joint pain", "stiffness", "swelling", "back pain"],
+    "Arthritis": ["joint pain", "stiffness",  "back pain"],
     
-    "Eye Infection":["swelling" , "eye Strinking"],
+    "Eye Infection":["eye Strinking"],
 
     "Common Cold": ["runny nose", "sneezing", "cough", "mild fever"],
     
